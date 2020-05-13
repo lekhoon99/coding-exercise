@@ -16,7 +16,9 @@ import java.util.regex.Pattern;
  *
  */
 public class IPValidationRegex {
-	
+	// added comment by feature1...................
+	////feature1 added more feature after feature2 merge to master
+	////feature1 added more feature after feature2 merge to master...2nd commit
 	public static final String IPADDRESS_REGEX_PATTERN = "^([01]?[0-9]?[0-9]|2[0-4][0-9]|25[0-5])\\." +
 														"([01]?[0-9]?[0-9]|2[0-4][0-9]|25[0-5])\\." +
 														"([01]?[0-9]?[0-9]|2[0-4][0-9]|25[0-5])\\." +
